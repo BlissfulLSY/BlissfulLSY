@@ -1,6 +1,13 @@
 **Current Projects:**
-- Hypnotic Serverside
-- Moon Serverside
+- FLOPPAWARE
+
+**Experience:**
+- Metability Founder
+- Aureus Head Admin
+- Arctic SS Owner
+- Azure SS Owner
+- Hypnotic SS Owner
+- FLOPPAWARE Owner
 
 **Languages:**
 - LuaU (roblox lua)
