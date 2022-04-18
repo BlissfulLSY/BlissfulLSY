@@ -11,4 +11,4 @@
 
 **Languages:**
 - LuaU (roblox lua)
-- DiscordJS
+- NodeJS
